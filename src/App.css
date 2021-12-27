@@ -1,0 +1,61 @@
+*{
+  border: 0;
+  margin: 0;
+}
+
+.Search__Bar .Title__Head{
+  text-align: center;
+  font-size: 30px;
+  padding-bottom: 20px;
+}
+
+
+
+.Search__Bar{
+  text-align: center;
+  padding-top: 10px;
+}
+li {
+  text-align: left;
+}
+
+
+.Search__Bar > button{
+  background-color: gray;
+  font-size: 31.2px;
+  color: white;
+  margin-left: 10px;
+}
+
+.Input__Field{
+  width: 60%;
+   height: 50px;
+  display: flex;
+  margin: auto;
+  justify-content: space-between;
+  border-radius: 5px;
+  border: 1px solid black;
+ 
+  margin: auto;
+}
+
+.Input__Type{
+
+  
+  height: 100%;
+ 
+}
+input{
+  border-radius: 5px;
+  border: 0;
+  width: 90%;
+}
+input:focus{
+  
+  outline: none;
+}
+svg{
+  padding-top: 10px;
+  padding-right: 20px;
+  
+}
